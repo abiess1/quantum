@@ -1,0 +1,3 @@
+[submodule "quantum-exercises/qm-exercises/quantum-exercises"]
+	path = quantum-exercises/qm-exercises/quantum-exercises
+	url = git@github.com:abiess1/Quantum-Mechanics-Exercises-and-Solutions.git
