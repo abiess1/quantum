@@ -4,3 +4,4 @@
 [submodule "qm-exercises/Quantum-Mechanics-Exercises-and-Solutions"]
 	path = qm-exercises/Quantum-Mechanics-Exercises-and-Solutions
 	url = git@github.com:abiess1/Quantum-Mechanics-Exercises-and-Solutions.git
+	branch = main
